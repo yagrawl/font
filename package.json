@@ -1,0 +1,25 @@
+{
+  "name": "fontdb",
+  "version": "1.0.0",
+  "description": "A font usage database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yagrawl/font.git"
+  },
+  "keywords": [
+    "font",
+    "database",
+    "ui",
+    "frontend"
+  ],
+  "author": "Yash Agrawal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yagrawl/font/issues"
+  },
+  "homepage": "https://github.com/yagrawl/font#readme"
+}
